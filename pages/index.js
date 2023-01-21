@@ -10,9 +10,9 @@ export default function Home() {
         height="600"
         className="mt-[200px]"
       />
-      <h1 className="text-5xl">Kuldeep Singh Pasla</h1>
+      <h1 className="text-4xl xl:text-5xl">Kuldeep Singh Pasla</h1>
       <div className="flex gap-20 items-start justify-center ">
-        <div className="flex flex-col gap-10 text-white text-4xl items-center justify-center">
+        <div className="flex flex-col gap-10 text-white text-3xl  items-center justify-center">
           <h1>Age: 28</h1>
           <h1>Lathrop CA</h1>
           <h1>Volleyball / Tennis / Badminton</h1>
